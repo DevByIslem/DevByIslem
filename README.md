@@ -54,7 +54,7 @@ I'm a Data Analyst and Web Developer interested in transforming complex data int
 ## Connect With Me
 
 - GitHub: [@DevByIslem](https://github.com/DevByIslem)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- LinkedIn: [Islem Naimi](www.linkedin.com/in/islem-naimi)
 
 ---
 
