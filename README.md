@@ -65,6 +65,7 @@ I'm continuously improving my technical skills and building projects that demons
 ## 🚀 Featured Projects
 
 ### 1. E-commerce Intelligence Dashboard
+🔗 **[Live Demo — Try the Dashboard](https://ecommerce-intelligence-dashboard-u8mhvyw26ffxjqxnctnrqy.streamlit.app/)**
 
 **Python · Streamlit · SQLite · Data Analytics**
 
