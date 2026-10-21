@@ -102,7 +102,7 @@ A web development project built with the Next.js framework.
 I'm interested in connecting with professionals, exchanging ideas, and collaborating on meaningful data and software projects.
 
 - **GitHub:** [@DevByIslem](https://github.com/DevByIslem)
-- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islem%20Naimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-naimi/)
+- **LinkedIn:** [Islem Naimi](https://www.linkedin.com/in/islem-naimi/)
 
 ---
 
